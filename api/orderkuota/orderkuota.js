@@ -29,7 +29,7 @@ function convertCRC16(str) {
 }
 
 function generateTransactionId() {
-    return `VANN HOSTING -${crypto.randomBytes(2).toString('hex').toUpperCase()}`
+    return `SKYZEE POKE - ${crypto.randomBytes(2).toString('hex').toUpperCase()}`
 }
 
 function generateExpirationTime() {
