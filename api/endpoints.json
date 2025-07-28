@@ -363,6 +363,37 @@
       "path": "/imagecreator/bratvideo?apikey=&text="
     }    
   ],
+    "Pterodactyl": [
+    {
+      "name": "Create Panel",
+      "desc": "Create Akun Dan Server Pterodactyl",
+      "status": "Active",
+      "path": "/pterodactyl/create?apikey=&username=&ram=&eggid=&nestid=&loc=&domain=&ptla="
+    },
+    {
+      "name": "List Panel",
+      "desc": "List Akun Pterodactyl",
+      "status": "Active",
+      "path": "/pterodactyl/listpanel?apikey=&eggid=&nestid=&loc=domain=&ptla="
+    },
+    {
+      "name": "Delete Sever",
+      "desc": "Delete Server Pterodactyl",
+      "status": "Active",
+      "path": "/pterodactyl/deleteserver?apikey=&idserver=&domain=&ptla="
+    },
+    {
+      "name": "Create Admin Panel",
+      "desc": "Create Admin Pterodactyl",
+      "status": "Active",
+      "path": "/pterodactyl/createadmin?apikey=&username=&domain=&ptla="
+    },
+    {
+      "name": "Delete User Panel",
+      "desc": "Delete User Pterodactyl",
+      "status": "Active",
+      "path": "/pterodactyl/deleteuser?apikey=&iduser=&domain=&ptla="
+    },
   "api": [
     {
       "name": "Status Api",
