@@ -393,7 +393,8 @@
       "desc": "Delete User Pterodactyl",
       "status": "Active",
       "path": "/pterodactyl/deleteuser?apikey=&iduser=&domain=&ptla="
-    },
+    }
+    ],
   "api": [
     {
       "name": "Status Api",
